@@ -68,7 +68,39 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 ---
 
 ## 📅 Schedule
-- **Weekly Schedule**: TBD *(subject to changes)*  
+
+| Date | Topic | Description | Notes/Links |
+|------|-------|-------------|-------------|
+| **Aug 25, Mon** | Course Introduction & Overview | Lecture |  |
+| **Aug 27, Wed** | Introduction to Compilers for AI | Lecture |  |
+| **Sep 1, Mon** | Labor Day (Holiday) |  |  |
+| **Sep 3, Wed** | Language-Level AI Compiler Systems I |  |  |
+| **Sep 8, Mon** | Language-Level AI Compiler Systems II |  |  |
+| **Sep 10, Wed** | Prompt Engineering and Program Synthesis |  |  |
+| **Sep 15, Mon** | Deep Learning Computational Graphs |  |  |
+| **Sep 17, Wed** | Compiler Fundamentals for ML |  |  |
+| **Sep 22, Mon** | The PyTorch Ecosystem |  |  |
+| **Sep 24, Wed** | JAX and Functional Programming for ML |  |  |
+| **Sep 29, Mon** | TVM: Tensor Virtual Machine |  |  |
+| **Oct 1, Wed** | Quantization Techniques |  |  |
+| **Oct 6, Mon** | Memory Optimization |  |  |
+| **Oct 8, Wed** | GPU Programming for AI |  |  |
+| **Oct 13, Mon** | Fall Study Break (Holiday) |  |  |
+| **Oct 15, Wed** | TensorRT and Inference Optimization |  |  |
+| **Oct 20, Mon** | Large Language Model Optimization |  |  |
+| **Oct 22, Wed** | Distributed Training Systems |  |  |
+| **Oct 27, Mon** | Heterogeneous Computing |  |  |
+| **Oct 29, Wed** | Hardware-Software Co-design |  |  |
+| **Nov 3, Mon** | Emerging AI Chip Architectures |  |  |
+| **Nov 5, Wed** | Emerging Techniques in AI Compilation |  |  |
+| **Nov 10, Mon** | Datacenter-scale AI Infrastructure |  |  |
+| **Nov 12, Wed** | Project Presentations I |  |  |
+| **Nov 17, Mon** | Advanced Optimization Techniques |  |  |
+| **Nov 19, Wed** | Guest Lectures |  |  |
+| **Nov 24, Mon** | Project Work Session |  |  |
+| **Nov 26, Wed** | Thanksgiving Recess (Holiday) |  |  |
+| **Dec 1, Mon** | Final Project Presentations |  |  |
+| **Dec 3, Wed** | Course Wrap-up & Future Directions |  |  |  
 
 ---
 
