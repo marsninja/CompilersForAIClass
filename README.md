@@ -46,7 +46,19 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 16. Hardware-Software Co-design  
 17. Emerging AI Chip Architectures  
 18. Emerging Techniques in AI Compilation  
-19. Datacenter-scale AI Infrastructure  
+19. Datacenter-scale AI Infrastructure
+
+## 📂 Tentative List of Papers
+
+| Paper | Link |
+|------|-------|
+| **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | https://arxiv.org/pdf/2310.03714 |
+| **Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs** | https://arxiv.org/abs/2406.11695 |
+| **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | https://arxiv.org/abs/2507.19457 |
+| **SGLang: Efficient Execution of Structured Language Model Programs** | https://arxiv.org/abs/2312.07104 |
+| **SGLang: Efficient Execution of Structured Language Model Programs** | https://arxiv.org/abs/2312.07104 |
+
+
 
 ---
 
