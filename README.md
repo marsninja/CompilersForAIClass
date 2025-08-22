@@ -93,6 +93,8 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 | CUDA/ROCm | **GPU Programming Model vs. Vendor Compatibility Overview** | 2023 | https://arxiv.org/abs/2309.05445 |
 | CUDA/ROCm | **Optimizing sDTW for AMD GPUs** | 2024 | https://arxiv.org/abs/2403.06931 |
 
+Need to add some compound AI papers, and Graphine, and a few others
+
 ---
 
 ## 📅 Schedule
