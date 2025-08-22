@@ -48,18 +48,6 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 18. Emerging Techniques in AI Compilation  
 19. Datacenter-scale AI Infrastructure
 
-## 📂 Tentative List of Papers
-
-| Paper | Link |
-|------|-------|
-| **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | https://arxiv.org/pdf/2310.03714 |
-| **Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs** | https://arxiv.org/abs/2406.11695 |
-| **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | https://arxiv.org/abs/2507.19457 |
-| **SGLang: Efficient Execution of Structured Language Model Programs** | https://arxiv.org/abs/2312.07104 |
-| **SGLang: Efficient Execution of Structured Language Model Programs** | https://arxiv.org/abs/2312.07104 |
-
-
-
 ---
 
 ## 👨‍🏫 Instruction Team
@@ -76,6 +64,34 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 - **Course Discussion**: Piazza (TBD)  
 - **Canvas**: TBD  
 - **Recorded Lectures**: Available on Canvas  
+
+---
+
+## 📂 Tentative List of Papers
+
+| Technology Category | Paper Title | Year | Link |
+|--------------------|------------|------|------|
+| LMQL | **Prompting Is Programming: A Query Language for Large Language Models** | 2022 | https://arxiv.org/abs/2212.06094 |
+| DSPy | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | 2023 | https://arxiv.org/pdf/2310.03714 |
+| DSPy | **Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs** | 2024 | https://arxiv.org/abs/2406.11695 |
+| DSPy | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | 2025 | https://arxiv.org/abs/2507.19457 |
+| SGLang | **SGLang: Efficient Execution of Structured Language Model Programs** | 2023 | https://arxiv.org/abs/2312.07104 |
+| MTP | **Meaning-Typed Programming: Language Abstraction and Runtime for Model-Integrated Applications** | 2025 | https://arxiv.org/abs/2405.08965 |
+| vLLM | **Efficient Memory Management for Large Language Model Serving with PagedAttention** | 2023 | https://arxiv.org/abs/2309.06180 |
+| vLLM | **Effective Memory Management for Serving LLM with Heterogeneity** | 2025 | https://arxiv.org/abs/2503.18292 |
+| TensorRT-LLM | **GPU-Accelerated AI Inference Whitepaper** | 2023 | https://www.nvidia.com/en-us/lp/ai/inference-whitepaper/ |
+| PyTorch + TorchInductor / PyTorch 2 / TorchDynamo | **PyTorch 2: Faster Machine Learning Through Dynamic Python Bytecode and Graph Compilation for DNNs** | 2024 | https://dl.acm.org/doi/10.1145/3620665.3640366 |
+| PyTorch + TorchInductor / PyTorch ROCm | **TorchBench: Benchmarking PyTorch with High API Surface Coverage** | 2023 | https://arxiv.org/abs/2304.14226 |
+| PyTorch 2 / TorchDynamo | **TorchTitan: One-stop PyTorch native solution for production ready LLM pretraining** | 2024 | https://arxiv.org/abs/2410.06511 |
+| PyTorch ROCm | **ECLIP: Energy-efficient and Practical Co-Location of ML Inference Pipelines on GPUs** | 2025 | https://arxiv.org/abs/2506.12598 |
+| OpenXLA / OpenVINO | **Operator Fusion in XLA: Analysis and Evaluation** | 2023 | https://arxiv.org/abs/2301.13062 |
+| OpenXLA / OpenVINO | **OpenVINO Deep Learning Workbench: Comprehensive Analysis and Tuning of Neural Networks Inference** | 2019 | [OpenAccess](https://openaccess.thecvf.com/content_ICCVW_2019/papers/SDL-CV/Gorbachev_OpenVINO_Deep_Learning_Workbench_Comprehensive_Analysis_and_Tuning_of_Neural_ICCVW_2019_paper.pdf) |
+| OpenXLA / OpenVINO | **Leveraging Speculative Sampling and KV-Cache Optimizations Together for Generative AI using OpenVINO** | 2023 | https://arxiv.org/abs/2311.04951 |
+| Kernel DSL Triton | **Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations** | 2019 | https://dl.acm.org/doi/10.1145/3315508.3329973 |
+| Kernel DSL Triton | **Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks** | 2025 | https://arxiv.org/abs/2507.23194 |
+| CUDA/ROCm | **GPGPU Computing** | 2014 | https://arxiv.org/abs/1408.6923 |
+| CUDA/ROCm | **GPU Programming Model vs. Vendor Compatibility Overview** | 2023 | https://arxiv.org/abs/2309.05445 |
+| CUDA/ROCm | **Optimizing sDTW for AMD GPUs** | 2024 | https://arxiv.org/abs/2403.06931 |
 
 ---
 
