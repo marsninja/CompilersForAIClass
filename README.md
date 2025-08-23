@@ -80,6 +80,9 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 | **CUDA/ROCm** | **Optimizing sDTW for AMD GPUs** | 2024 | [Paper](https://arxiv.org/abs/2403.06931) |
 | **GPU ISA & Architecture** | **Demystifying the Nvidia Ampere Architecture through Microbenchmarking and Instruction-level Analysis** | 2023 | [Paper](https://arxiv.org/abs/2208.11174) |
 | **GPU ISA & Architecture** | **Cambricon: An Instruction Set Architecture for Neural Networks** | 2016 | [Paper](https://dl.acm.org/doi/10.1145/3331469) |
+| **TPU ISA & Architecture** | **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings** | 2016 | [Paper](https://arxiv.org/abs/2304.01433) |
+| **TPU ISA & Architecture** | **MTIA: First Generation Silicon Targeting Meta's Recommendation Systems** | 2016 | [Paper](https://dl.acm.org/doi/pdf/10.1145/3579371.3589348) |
+| **TPU ISA & Architecture** | **Machine Learning Fleet Efficiency: Analyzing and Optimizing Large-Scale Google TPU Systems with ML Productivity Goodput** | 2016 | [Paper](https://arxiv.org/pdf/2502.06982) |
 
 *Need to add some compound AI papers, Graphine, and a few others*
 
