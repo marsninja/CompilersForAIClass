@@ -92,7 +92,7 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 
 | Week | Topics | Description | Notes/Links |
 |------|--------|-------------|-------------|
-| **Aug 25-27** | Course Introduction & Overview<br>Introduction to Compilers for AI | Lecture<br>Lecture |  |
+| **Aug 25-27** | Course Introduction & Overview<br>Introduction to Compilers for AI | Lecture |  |
 | **Sep 1-3** | Labor Day (Holiday)<br>Language-Level AI Compiler Systems I | |  |
 | **Sep 8-10** | Language-Level AI Compiler Systems II<br>Prompt Engineering and Program Synthesis | |  |
 | **Sep 15-17** | Deep Learning Computational Graphs<br>Compiler Fundamentals for ML | Pitches |  |
@@ -122,7 +122,30 @@ This is a very 'do based' course, we'll be learning, creating, innovating and sh
 - Paper Write-Up: 15%
 
 **Impact and Engagement: 50%**
-TBD
+- Paper Presentation: 10%
+
+---
+
+## 🎯 How We'll Work
+
+This course emphasizes collaborative learning and knowledge sharing. Students will actively participate in presentations that showcase their understanding and discoveries from the course materials.
+
+### Student Presentations: "Vibe Learning" Approach
+
+A key component of our learning methodology is the **"vibe learning" presentation**. In these sessions, students will:
+
+- **Walk through AI conversation logs**: Present a curated log of their conversations with AI systems where they learned interesting concepts from the course papers
+- **Teach back to the class**: Use their AI interaction logs as a foundation to explain complex compiler and runtime concepts to their peers
+- **Demonstrate understanding**: Show how they've internalized and can communicate technical concepts through their AI-assisted learning journey
+- **Share insights**: Highlight unexpected discoveries, connections, and "aha moments" that emerged from their AI conversations
+
+This approach leverages the power of AI as a learning companion while ensuring students develop deep understanding through the process of teaching others. Students will learn not just from the papers themselves, but from each other's unique learning paths and AI-assisted discoveries.
+
+### Presentation Schedule
+- **Paper Presentations**: Regular presentations on assigned papers throughout the semester
+- **Vibe Learning Sessions**: Dedicated sessions where students share their AI conversation logs and teach back key concepts
+- **Project Updates**: Ongoing project progress presentations
+- **Final Presentations**: Comprehensive project demonstrations
 
 ---
 
