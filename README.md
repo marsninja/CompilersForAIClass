@@ -27,29 +27,6 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 
 ---
 
-## 📂 Tentative List of Topics
-1. Introduction to AI Acceleration Systems  
-2. Language-Level AI Compiler Systems (DSPy, SGLang, MTP, Guidance, LMQL)  
-3. Prompt Engineering and Program Synthesis  
-4. Deep Learning Computational Graphs  
-5. Compiler Fundamentals for ML  
-6. The PyTorch Ecosystem  
-7. JAX and Functional Programming for ML  
-8. TVM: Tensor Virtual Machine  
-9. Quantization Techniques  
-10. Memory Optimization  
-11. GPU Programming for AI  
-12. TensorRT and Inference Optimization  
-13. Large Language Model Optimization  
-14. Distributed Training Systems  
-15. Heterogeneous Computing  
-16. Hardware-Software Co-design  
-17. Emerging AI Chip Architectures  
-18. Emerging Techniques in AI Compilation  
-19. Datacenter-scale AI Infrastructure
-
----
-
 ## 👨‍🏫 Instruction Team
 - **Instructor**: [Jason Mars](http://www.jasonmars.org) (📧 profmars@umich.edu)  
 - **GSI**: *TBD*  
