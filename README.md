@@ -93,20 +93,20 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 | Week | Topics | Description | Notes/Links |
 |------|--------|-------------|-------------|
 | **Aug 25-27** | Course Introduction & Overview<br>Introduction to Compilers for AI | Lecture<br>Lecture |  |
-| **Sep 1-3** | Labor Day (Holiday)<br>Language-Level AI Compiler Systems I | <br> |  |
-| **Sep 8-10** | Language-Level AI Compiler Systems II<br>Prompt Engineering and Program Synthesis | <br> |  |
-| **Sep 15-17** | Deep Learning Computational Graphs<br>Compiler Fundamentals for ML | <br> |  |
-| **Sep 22-24** | The PyTorch Ecosystem<br>JAX and Functional Programming for ML | <br> |  |
-| **Sep 29 - Oct 1** | TVM: Tensor Virtual Machine<br>Quantization Techniques | <br> |  |
-| **Oct 6-8** | Memory Optimization<br>GPU Programming for AI | <br> |  |
-| **Oct 13-15** | Fall Study Break (Holiday)<br>TensorRT and Inference Optimization | <br> |  |
-| **Oct 20-22** | Large Language Model Optimization<br>Distributed Training Systems | <br> |  |
-| **Oct 27-29** | Heterogeneous Computing<br>Hardware-Software Co-design | <br> |  |
-| **Nov 3-5** | Emerging AI Chip Architectures<br>Emerging Techniques in AI Compilation | <br> |  |
-| **Nov 10-12** | Datacenter-scale AI Infrastructure<br>Project Presentations I | <br> |  |
-| **Nov 17-19** | Advanced Optimization Techniques<br>Guest Lectures | <br> |  |
-| **Nov 24-26** | Project Work Session<br>Thanksgiving Recess (Holiday) | <br> |  |
-| **Dec 1-3** | Final Project Presentations<br>Course Wrap-up & Future Directions | <br> |
+| **Sep 1-3** | Labor Day (Holiday)<br>Language-Level AI Compiler Systems I | |  |
+| **Sep 8-10** | Language-Level AI Compiler Systems II<br>Prompt Engineering and Program Synthesis | |  |
+| **Sep 15-17** | Deep Learning Computational Graphs<br>Compiler Fundamentals for ML | Pitches |  |
+| **Sep 22-24** | The PyTorch Ecosystem<br>JAX and Functional Programming for ML | Pitches |  |
+| **Sep 29 - Oct 1** | TVM: Tensor Virtual Machine<br>Quantization Techniques | |  |
+| **Oct 6-8** | Memory Optimization<br>GPU Programming for AI | |  |
+| **Oct 13-15** | Fall Study Break (Holiday)<br>TensorRT and Inference Optimization | |  |
+| **Oct 20-22** | Large Language Model Optimization<br>Distributed Training Systems | Updates |  |
+| **Oct 27-29** | Heterogeneous Computing<br>Hardware-Software Co-design | Updates |  |
+| **Nov 3-5** | Emerging AI Chip Architectures<br>Emerging Techniques in AI Compilation | |  |
+| **Nov 10-12** | Datacenter-scale AI Infrastructure<br>Project Presentations I | |  |
+| **Nov 17-19** | Advanced Optimization Techniques<br>Guest Lectures | |  |
+| **Nov 24-26** | Project Work Session<br>Thanksgiving Recess (Holiday) | Presentations |  |
+| **Dec 1-3** | Final Project Presentations<br>Course Wrap-up & Future Directions | Presentations | |
 
 ---
 
