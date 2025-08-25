@@ -16,7 +16,7 @@ Students will learn how modern AI compilers and runtime systems like **PyTorch, 
 - Identify and focus on a **specific research project** within the scope of these technologies, demonstrating novel compiler/runtime optimizations for targeted AI workloads  
 - Present a **capstone project** that delves deep into a particular aspect of AI compilation, from language-level innovations to hardware-level breakthroughs  
 
-Projects can be solo or team-based (1–3 students) and include selecting a focused research direction, designing targeted optimization approaches, building specialized compiler/runtime components, and benchmarking performance improvements.  
+Projects teams will be on the smaller side (~2–3 students) and will include selecting a focused research direction, designing targeted optimization approaches, building specialized compiler/runtime components, and benchmarking performance improvements.  
 
 ### What You’ll Learn
 - The **comprehensive landscape of AI systems**: from language-level AI compiler techniques (DSPy, SGLang, MTP) to hardware-level acceleration (GPU kernels, TPU compilation, custom ASICs)  
