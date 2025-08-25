@@ -49,8 +49,8 @@ Grading is **research project-centric**. You’ll showcase your project’s evol
 | Week | Topics | Description | Notes/Links |
 |------|--------|-------------|-------------|
 | **Aug 25-27** | Course Introduction & Overview<br>Introduction to Compilers for AI | Lecture |  |
-| **Sep 1-3** | Labor Day (Holiday)<br>Language-Level AI Compiler Systems I | Papers and Discussion |  |
-| **Sep 8-10** | Language-Level AI Compiler Systems II<br>Prompt Engineering and Program Synthesis | Papers and Discussion |  |
+| **Sep 1-3** | Labor Day (Holiday)<br>Foundations of AI Compiler Systems | Lecture |  |
+| **Sep 8-10** | Language-Level AI Compiler Systems<br>Prompt Engineering and Program Synthesis | Papers and Discussion |  |
 | **Sep 15-17** | Deep Learning Computational Graphs<br>Compiler Fundamentals for ML | Pitches |  |
 | **Sep 22-24** | The PyTorch Ecosystem<br>JAX and Functional Programming for ML | Pitches |  |
 | **Sep 29 - Oct 1** | TVM: Tensor Virtual Machine<br>Quantization Techniques | Papers and Discussion|  |
