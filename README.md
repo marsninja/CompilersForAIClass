@@ -11,19 +11,19 @@ The science and art of creating **efficient AI systems** spans the entire comput
 Students will learn how modern AI compilers and runtime systems like **PyTorch, JAX, TVM, TensorRT, VLLM, and specialized LLM compilers** orchestrate the full pipeline from prompt engineering and program synthesis down to optimized execution on heterogeneous hardware. The course covers the complete spectrum: **prompt-level optimizations**, **graph-level transformations**, **kernel-level tuning**, **memory hierarchy optimization**, and **distributed system coordination**.
 
 ### What You’ll Do
-- Design and implement **end-to-end optimized AI systems** spanning the full stack from language-level abstractions to hardware execution  
 - Explore **language-level AI compiler techniques** (prompt optimization, program synthesis, declarative AI programming) and **traditional compiler optimizations** (graph-level transformations, kernel tuning, memory management, distributed training)  
 - Work hands-on with **cutting-edge AI compiler ecosystems** (DSPy, SGLang, MTP, Guidance, LMQL, MLIR, TVM, PyTorch, CUDA) and **heterogeneous hardware platforms** (GPUs, TPUs, custom accelerators, emerging AI chips)  
-- Present a **capstone project** demonstrating novel compiler/runtime optimizations for real-world AI workloads, with projects spanning the full spectrum from language-level innovations to hardware-level breakthroughs  
+- Identify and focus on a **specific research project** within the scope of these technologies, demonstrating novel compiler/runtime optimizations for targeted AI workloads  
+- Present a **capstone project** that delves deep into a particular aspect of AI compilation, from language-level innovations to hardware-level breakthroughs  
 
-Projects are **team-based (3–5 students)** and include selecting a focus, designing the optimization approach, building compiler/runtime components, and benchmarking performance.  
+Projects can be solo or team-based (1–3 students) and include selecting a focused research direction, designing targeted optimization approaches, building specialized compiler/runtime components, and benchmarking performance improvements.  
 
 ### What You’ll Learn
 - The **comprehensive landscape of AI systems**: from language-level AI compiler techniques (DSPy, SGLang, MTP) to hardware-level acceleration (GPU kernels, TPU compilation, custom ASICs)  
 - **State-of-the-art techniques**: prompt-level optimization, program synthesis, graph-level transformation, auto-tuning, quantization, inference acceleration, and emerging AI chip architectures  
 - **Critical research skills**: interpreting papers, evaluating cutting-edge systems, presenting technical ideas, and bridging the gap between high-level AI programming and low-level hardware optimization  
 
-Grading is **project-heavy**. You’ll showcase your project’s evolution through presentations, paper reviews, and final demos.  
+Grading is **research project-centric**. You’ll showcase your project’s evolution through presentations, paper reviews, and final demos.  
 
 ---
 
@@ -114,15 +114,15 @@ Grading is **project-heavy**. You’ll showcase your project’s evolution throu
 
 This is a very 'do based' course, we'll be learning, creating, innovating and sharing. A significant portion of the grade is allocated to the research project. Most (if not all) does very well in this class as long as you stay engaged on the journey. Lets create some amazing stuff! 😊
 
-**Research Project: 50%**
-- Project Pitch: 5%
-- Project Update: 5%
-- Video Lightning Talk: 10%
-- Final Presentation: 15%
-- Paper Write-Up: 15%
+**Research Project: 80%**
+- Project Pitch: 10%
+- Project Update: 10%
+- Video Lightning Talk: 15%
+- Final Presentation: 20%
+- Paper Write-Up: 25%
 
-**Impact and Engagement: 50%**
-- Paper Presentation: 10%
+**Participation, Impact, and Engagement: 20%**
+- Paper Presentations, Tech Talks, Warm Up assignment
 
 ---
 
@@ -141,18 +141,15 @@ A key component of our learning methodology is the **"vibe learning" presentatio
 
 This approach leverages the power of AI as a learning companion while ensuring students develop deep understanding through the process of teaching others. Students will learn not just from the papers themselves, but from each other's unique learning paths and AI-assisted discoveries.
 
-### Presentation Schedule
-- **Paper Presentations**: Regular presentations on assigned papers throughout the semester
-- **Vibe Learning Sessions**: Dedicated sessions where students share their AI conversation logs and teach back key concepts
-- **Project Updates**: Ongoing project progress presentations
-- **Final Presentations**: Comprehensive project demonstrations
+
+
 
 ---
 
-## 🛠 Additional Details
+## 🛠 Notes
 - https://medium.com/geekculture/ai-compilers-ae28afbc4907
-- https://developer.nvidia.com/blog/understanding-ptx-the-assembly-language-of-cuda-gpu-computing/?utm_source=chatgpt.com
-- https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html?utm_source=chatgpt.com
+- https://developer.nvidia.com/blog/understanding-ptx-the-assembly-language-of-cuda-gpu-computing/
+- https://rocm.blogs.amd.com/software-tools-optimization/amdgcn-isa/README.html
 
 ---
 
