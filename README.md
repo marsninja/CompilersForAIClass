@@ -120,7 +120,7 @@ This is a very 'do based' course, we'll be learning, creating, innovating and sh
 **Participation, Impact, and Engagement: 20%**
 - Paper Presentations: 10%
 - Repo Deconstructions: 5%
-- Paper Vibe Logs: 5% / 24 
+- Paper Vibe Logs: 5% / #No of Papers
 
 ---
 
