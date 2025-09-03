@@ -128,18 +128,22 @@ This is a very 'do based' course, we'll be learning, creating, innovating and sh
 
 This course emphasizes collaborative learning and knowledge sharing. Students will actively participate in presentations that showcase their understanding and discoveries from the course materials.
 
-### Student Presentations
+### Grading and Logistics
 
 
-#### Presentation Slides
+**Grading Basis**
+- Grading will be based on each student's GitHub repository for this class. Your repo is the official record of your work and deliverables.
 
-- Aim for **15–20 slides**
-- Cover the paper’s **motivation**, **problem**, **key ideas/methodology**, **system/architecture**, **evaluation/results**, **limitations/trade-offs**, and **key takeaways**
-- Include **relevant figures/diagrams/tables** from the paper (or simplified redraws) to clearly tell the story
-- Use a clear narrative: problem → idea → how it works → why it’s better → evidence → implications
-- For style and pacing, watch recent paper talks on YouTube from top architecture/systems conferences such as **ISCA**, **MICRO**, **ASPLOS**, and **HPCA**
+**Repository Registration**
+- Each student must enter their U-M uniquename and GitHub repository link in the "GitHub repos" tab of the same Google Sheet used for student presentations (https://docs.google.com/spreadsheets/d/1y7yw2zQt6hjsVg0bTg0fLS1cplkk9_-1nd-qYPybwfE/edit?usp=sharing).
 
-#### "Vibe Learning" Log
+**Paper Vibe Logs**
+- Upload your paper vibe logs to your GitHub repository.
+- Vibe logs are due the same day as the paper being presented.
+- Each student submits their own vibe log (no group submissions).
+- Each vibe log should contain about 5–10 questions you asked to GPT about the paper being presented.
+
+### "Vibe Learning" Log
 
 A key component of our learning methodology is the **"vibe learning" presentation**. In these sessions, students will:
 
@@ -149,6 +153,18 @@ A key component of our learning methodology is the **"vibe learning" presentatio
 - **Share insights**: Highlight unexpected discoveries, connections, and "aha moments" that emerged from their AI conversations
 
 This approach leverages the power of AI as a learning companion while ensuring students develop deep understanding through the process of teaching others. Students will learn not just from the papers themselves, but from each other's unique learning paths and AI-assisted discoveries.
+
+### Student Presentations
+
+Students should sign up for a paper here (in the paper signup tab): https://docs.google.com/spreadsheets/d/1y7yw2zQt6hjsVg0bTg0fLS1cplkk9_-1nd-qYPybwfE/edit?usp=sharing
+
+#### Presentation Slides
+
+- Aim for **15–20 slides**
+- Cover the paper’s **motivation**, **problem**, **key ideas/methodology**, **system/architecture**, **evaluation/results**, **limitations/trade-offs**, and **key takeaways**
+- Include **relevant figures/diagrams/tables** from the paper (or simplified redraws) to clearly tell the story
+- Use a clear narrative: problem → idea → how it works → why it’s better → evidence → implications
+- For style and pacing, watch recent paper talks on YouTube from top architecture/systems conferences such as **ISCA**, **MICRO**, **ASPLOS**, and **HPCA**
 
 
 
