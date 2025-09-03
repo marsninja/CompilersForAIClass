@@ -70,7 +70,7 @@ Grading is **research project-centric**. You’ll showcase your project’s evol
 
 | # | Technology Category | Paper Title | Year | Link |
 |:--:|:------------------|:-------------|:----:|:-----|
-| 1 | **LMQL** | **Prompting Is Programming: A Query Language for Large Language Models** | 2022 | [LMQL](https://arxiv.org/abs/2212.06094) |
+| 1 | **LMQL** | **Prompting Is Programming: A Query Language for Large Language Models** | 2022 | [Paper](https://arxiv.org/abs/2212.06094) |
 | 2 | **DSPy** | **DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines** | 2023 | [DSPy](https://arxiv.org/pdf/2310.03714) |
 | 3 | **DSPy** | **Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs** | 2024 | [Paper](https://arxiv.org/abs/2406.11695) |
 | 4 | **DSPy** | **GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning** | 2025 | [GEPA](https://arxiv.org/abs/2507.19457) |
@@ -118,7 +118,9 @@ This is a very 'do based' course, we'll be learning, creating, innovating and sh
 - Paper Write-Up: 25%
 
 **Participation, Impact, and Engagement: 20%**
-- Paper Presentations, Tech Talks, Warm Up assignment
+- Paper Presentations: 10%
+- Repo Deconstructions: 5%
+- Paper Vibe Logs: 5% / 24 
 
 ---
 
@@ -126,7 +128,18 @@ This is a very 'do based' course, we'll be learning, creating, innovating and sh
 
 This course emphasizes collaborative learning and knowledge sharing. Students will actively participate in presentations that showcase their understanding and discoveries from the course materials.
 
-### Student Presentations: "Vibe Learning" Approach
+### Student Presentations
+
+
+#### Presentation Slides
+
+- Aim for **15–20 slides**
+- Cover the paper’s **motivation**, **problem**, **key ideas/methodology**, **system/architecture**, **evaluation/results**, **limitations/trade-offs**, and **key takeaways**
+- Include **relevant figures/diagrams/tables** from the paper (or simplified redraws) to clearly tell the story
+- Use a clear narrative: problem → idea → how it works → why it’s better → evidence → implications
+- For style and pacing, watch recent paper talks on YouTube from top architecture/systems conferences such as **ISCA**, **MICRO**, **ASPLOS**, and **HPCA**
+
+#### "Vibe Learning" Log
 
 A key component of our learning methodology is the **"vibe learning" presentation**. In these sessions, students will:
 
